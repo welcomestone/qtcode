@@ -1,0 +1,4 @@
+C:/Users/yangjian/Desktop/qtcode/build/CMakeFiles/qtcode.dir
+C:/Users/yangjian/Desktop/qtcode/build/CMakeFiles/edit_cache.dir
+C:/Users/yangjian/Desktop/qtcode/build/CMakeFiles/rebuild_cache.dir
+C:/Users/yangjian/Desktop/qtcode/build/CMakeFiles/qtcode_autogen.dir
